@@ -31,3 +31,5 @@ Example Project for learning GoLang
 # http Project
     This project demonstrate the use of on of the most popular package of Go. Namely the 'http' package. Implementations are done to get a
     better understanding of interfaces in Go.
+# Assignment2 Project
+    This project contains the solution for the Assignment2 on Interface of the course of Udemy.
