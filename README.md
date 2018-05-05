@@ -1,4 +1,4 @@
-# Hands-on-Go
+#Hands-on-Go
 Example Project for learning GoLang
 
 # Cards Project
@@ -28,3 +28,6 @@ Example Project for learning GoLang
         2. Interfaces are 'implicit'.
         3. Interfaces are a contract to help us manage types. { GARBAGE IN -> GARBAGE OUT }
         4. Interfaces are tough. Step #1 is understanding how to read them.{ Reading from Standard Library Documentation }
+# http Project
+    This project demonstrate the use of on of the most popular package of Go. Namely the 'http' package. Implementations are done to get a
+    better understanding of interfaces in Go.
