@@ -30,7 +30,7 @@ func printArea(s shape) {
 }
 
 func (tr triangle) getArea() float64 {
-	return tr.base * tr.height
+	return tr.base * tr.height * 0.5
 }
 
 func (sq square) getArea() float64 {
