@@ -33,3 +33,5 @@ Example Project for learning GoLang
     better understanding of interfaces in Go.
 # Assignment2 Project
     This project contains the solution for the Assignment2 on Interface of the course of Udemy.
+# Assignment2 Hard Project
+    This project contains the solution for the Assignment2 (Hard) on Interface of the course of Udemy.
